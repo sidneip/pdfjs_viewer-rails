@@ -6,4 +6,8 @@
     margin: 6px 15px;
     color: #fff;
   }
+  a:hover, a:visited, a:link, a:active {
+    text-decoration: none !important;
+  }
+
 }
